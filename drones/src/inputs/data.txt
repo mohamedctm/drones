@@ -1,0 +1,9 @@
+Alfa,66,Beta,29,Omega,90
+Meriden,12
+Bristol,8
+Hartford,22
+norwalk,30
+new Britain,32
+weston,6
+fairfield,19
+boston,31

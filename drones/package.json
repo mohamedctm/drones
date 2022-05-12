@@ -1,0 +1,14 @@
+{
+  "name": "drone-pickups",
+  "version": "1.0.0",
+  "description": "drones",
+  "engines": {
+    "node": ">=12.16.3"
+  },
+  "main": "src/app/main.js",
+  "scripts": {
+    "start": "node ./src/app/main.js",
+    "type": "module"
+
+  }
+}
